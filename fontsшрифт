@@ -1,0 +1,3 @@
+git add fonts/Pudelinka.ttf
+git commit -m "Add Pudelinka font"
+git push
